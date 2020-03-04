@@ -4,6 +4,6 @@ Repositorio principal de Drink Point
 
 ## Quienes somos
 
-## Nuestro Objectivo
+## Nuestro Objetivo
 
 ## Contacto
